@@ -7,6 +7,7 @@ Functionality : When you tap on a Dice, It will scroll and show the random side 
 ![WhatsApp Image 2022-08-09 at 6 08 50 PM](https://user-images.githubusercontent.com/61471356/183649132-745179aa-2546-4d62-941a-0c2138ed37fb.jpeg)
 
 Touch the dice : 
+
 ![WhatsApp Image 2022-08-09 at 6 08 50 PM (1)](https://user-images.githubusercontent.com/61471356/183649151-b8d42655-42d5-40c4-8980-cc47085144db.jpeg)
 
 Now Spinning : 
